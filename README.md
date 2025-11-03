@@ -3,13 +3,13 @@
 **Version:** Full Version  
 **Developer:** Dr. M. Kamakshaiah / AMCHIK SOLUTIONS  
 **Website:** [http://codingfigs.com](http://codingfigs.com)  
-**Contact:** dr.m.kamakshaiah@gmail.com
+**Contact:** contact@codingfigs.com
 
 ---
 
 ## Overview
 
-SADSA (Software Application for Data Science and Analytics) is a comprehensive desktop application for statistical analysis, data visualization, and machine learning. Built with Python and Tkinter, SADSA provides an intuitive graphical interface for performing advanced analytics without writing code.
+SADSA (Software Application for Data Science and Analytics) is a comprehensive desktop application for statistical analysis, data visualization, and machine learning. Built with Python, SADSA provides an intuitive graphical interface for performing advanced analytics without writing code.
 
 ---
 
@@ -20,6 +20,10 @@ SADSA (Software Application for Data Science and Analytics) is a comprehensive d
 SADSA offers a **30-day free trial** with **ALL FEATURES ENABLED** from day one:
 
 #### ✅ During Trial Period (Days 1-30):
+- ✅ **File** - Supports CSV, Excel, and few other data formats
+- ✅ **Transformations** - Data Transformations such as variable recoding, computing etc.
+- ✅ **Data Simulations** - Data simulations for quit testing learning purposes (supports cholsky, SVD, QR etc).
+- ✅ **Data Analytics** - Uni, bi and multivariate analysis (including CA, PCS, MDS, EFA, CFA, Time Series Forecasting etc.) 
 - ✅ **Machine Learning** - All supervised & unsupervised algorithms
 - ✅ **NLP** - Document-term matrix generation & feature extraction
 - ✅ **Meta Analysis** - Fixed/random effects, heterogeneity tests
@@ -39,7 +43,7 @@ SADSA offers a **30-day free trial** with **ALL FEATURES ENABLED** from day one:
 - ❌ Plots menu - **Disabled** (requires license)
 - ❌ Download Reports - **Disabled** (requires license)
 - ⚠️ File Import - **CSV only** (other formats blocked)
-- ✅ Basic data viewing and editing - **Still available**
+- ✅ Basic data viewing, editing and analysis - **Still available**
 
 ### Full License Activation
 
@@ -58,7 +62,7 @@ Activate a **FULL LICENSE** for:
    - Example: `39FBD9ACCC7D0618`
 
 2. **Request License**:
-   - Email: **dr.m.kamakshaiah@gmail.com**
+   - Email: **contact@codingfigs.com**
    - Subject: "SADSA License Request"
    - Include: Your Machine ID or Computer Name
    - Specify: License type needed (Full/Extended Trial)
@@ -81,15 +85,6 @@ Your license status is visible in multiple locations:
 - **Title Bar**: `SADSA - Trial (X days remaining)` or `SADSA - Full Version`
 - **Status Bar**: Shows daily countdown and available features
 - **Help → License Information**: Detailed license status, expiration date, Machine ID
-
-### For Administrators
-
-Generate license keys for users:
-1. Help → Machine ID Information
-2. Press **Ctrl+Shift+A** (secret admin shortcut)
-3. Enter password: `SADSA2025Admin`
-4. Generate FULL (permanent) or TRIAL (custom days) licenses
-5. Send generated key to user
 
 ---
 
