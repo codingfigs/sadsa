@@ -90,6 +90,8 @@ Your license status is visible in multiple locations:
 
 ## Installation Instructions
 
+### The open source alternative to this is available at https://github.com/codingfigs/sadsa-os
+
 ### Prerequisites
 - Windows 10 or later (64-bit)
 - Administrator privileges required for installation
