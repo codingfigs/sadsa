@@ -995,3 +995,109 @@ A: Currently Windows-only. Mac and Linux versions are under consideration.
 **Thank you for choosing SADSA!**
 
 For the latest updates and resources, visit [http://codingfigs.com](http://codingfigs.com)
+
+# 🚀 SADSA Advanced Statistical & Data Science Application
+
+![SADSA Logo](icon.ico)
+
+---
+
+## ✨ Overview
+SADSA is a powerful, user-friendly application for advanced statistics, machine learning, data import/export, and reporting. It features:
+- 📂 Advanced file import (CSV, Excel, JSON, Parquet, SPSS, MATLAB, databases, and more)
+- 🤖 Machine learning & ensemble methods (XGBoost, LightGBM, AdaBoost, Gradient Boosting)
+- 📊 Interactive plotting and reporting
+- 🧠 NLP, meta-analysis, bibliometrics (optional)
+- 🛡️ Robust license system
+- 🖱️ Windows context menu integration
+
+---
+# LATEST UPDATES
+---
+
+## 🗂️ File Menu: Advanced File Import
+- **Menu:** `File → Advanced File Import...`
+- Supports: CSV, Excel, JSON, Parquet, ODS, TSV, TXT, WEKA, SPSS, MATLAB, Tableau, SQLite, MySQL, PostgreSQL
+- **How to use:**
+  1. Click **File** menu
+  2. Select **Advanced File Import...**
+  3. Choose format tab (Standard, Advanced, Databases)
+  4. Browse, preview, and import your data
+
+---
+
+## 🤖 Machine Learning: Ensemble Methods
+- **Menu:** `Machine Learning → Ensemble Methods → [XGBoost, LightGBM, AdaBoost, Gradient Boosting]`
+- Unified 2x2 grid interface for all ensemble algorithms
+- **Steps:**
+  1. Select target variable
+  2. Select features
+  3. Configure parameters (n_estimators, learning_rate, max_depth, test_size)
+  4. Train and view results
+
+---
+
+## 🖱️ Context Menu Integration
+- **Feature:** "Open with SADSA" in Windows right-click menu for `.csv`, `.xlsx`, `.xls`, `.txt`, `.tsv`, `.sadsa`, `.dat`, `.data`
+- **Install:**
+  - Run `install_context_menu.bat` (admin)
+  - Or use `install_context_menu.py` or registry files
+- **Uninstall:**
+  - Use `uninstall_context_menu.bat`, `uninstall_context_menu.py`, or registry uninstaller
+
+---
+
+## 🛡️ License System
+- **File:** `license_system.py`
+- Handles machine ID, license key generation, validation, activation, and GUI dialogs
+- License types: `TRIAL` (45 days), `FULL`, `STANDARD`, `PREMIUM`
+- Admin access for key generation (password: `SADSA2025Admin`)
+
+---
+
+## 🐍 Python Console
+- **Menu:** `Tools → Python Console`
+- Launch an interactive Python terminal within SADSA.
+- Access app objects: `app`, `data`, `pd`, `np`, `plt`, etc.
+- Run any Python code, inspect data, and call SADSA methods directly (e.g., `app.perform_correlation_analysis()`).
+- Features:
+  - Command history (Up/Down arrows)
+  - Themed interface (choose your favorite look)
+  - Type `help()` for a quick guide, `methods()` for a list of available app methods
+  - Supports all standard Python imports (e.g., `import seaborn as sns`)
+- Great for power users, debugging, and custom analysis!
+
+---
+
+## 📚 Other Features
+- **Help Menu:** License activation, documentation, support
+- **NLP, Meta Analysis, Bibliometrics:** (optional, see deployment guide)
+- **Advanced plotting, reporting, and export**
+
+---
+
+## 📖 References & Guides
+- See the `backup/` folder for detailed markdown guides:
+  - `ADVANCED_FILE_IMPORT_GUIDE.md`
+  - `ENSEMBLE_QUICK_START.md`
+  - `CONTEXT_MENU_GUIDE.md`
+  - `FINAL_CLEANUP_SUMMARY.md`
+  - ...and more!
+
+---
+
+## 🏁 Quick Start
+1. Install Python dependencies: `pip install -r requirements.txt`
+2. Run the app: `python pyfda.py`
+3. Use the installer for Windows deployment: `SADSA_Installer_*.exe`
+
+---
+
+## 💡 Need Help?
+- Open the **Help** menu in the app
+- See the documentation in the `backup/` folder
+- Or contact the developer via GitHub
+
+---
+
+> © 2025 Your Company Name. All rights reserved.
