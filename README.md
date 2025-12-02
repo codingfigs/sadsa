@@ -1183,14 +1183,6 @@ A: Currently Windows-only. Mac and Linux versions are under consideration.
 
 ---
 
-## 🛡️ License System
-- **File:** `license_system.py`
-- Handles machine ID, license key generation, validation, activation, and GUI dialogs
-- License types: `TRIAL` (45 days), `FULL`, `STANDARD`, `PREMIUM`
-- Admin access for key generation (password: `SADSA2025Admin`)
-
----
-
 ## 🐍 Python Console
 - **Menu:** `Tools → Python Console`
 - Launch an interactive Python terminal within SADSA.
