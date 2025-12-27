@@ -13,14 +13,6 @@ SADSA (Software Application for Data Science and Analytics) is a comprehensive d
 
 ---
 
-## 🔐 License & Trial System
-
-### 30-Day Free Trial with Full Features
-
-SADSA offers a **30-day free trial** with **ALL FEATURES ENABLED** from day one:
-
----
-
 ## Installation Instructions
 
 ### The open source alternative to this is available at https://github.com/codingfigs/sadsa-os
